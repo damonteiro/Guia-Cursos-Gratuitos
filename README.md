@@ -41,12 +41,6 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
   - [Visualize data on Google Maps Platform](https://developers.google.com/learn/pathways/maps-visualize-data?hl=en)
 
 
-## [Bolsas Santander](https://www.becas-santander.com/pt_pt/index.html)
-<p>O Santander está oferecendo 1 milhão de bolsas de estudos para cursos de inglês em parceria com a English Live, escola de inglês online focada no ensino para adultos. </p>
-
-  - [Santander English Live 2023](https://app.becas-santander.com/pt/program/bolsas-santander-idiomas-santander-english-live-2023?category=LANGUAGE&track=search)
-
-
 ## [FGV](https://educacao-executiva.fgv.br/cursos/gratuitos)
 <p>A FGV possui uma variedade de cursos gratuitos em diversas áreas de atuação por conta da parceria com OEG – Open Education Global. </p>
 
