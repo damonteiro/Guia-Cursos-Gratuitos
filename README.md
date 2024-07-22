@@ -3,16 +3,10 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
 
 
 
-## [EuCapacito](https://www.eucapacito.com.br/cursos)
+## [Eu Capacito](https://www.eucapacito.com.br/cursos)
 <p>O Instituto IT Mídia, através da plataforma Eu Capacito, está oferecendo capacitações ministradas pela FIAP, IBM, IDP, Microsoft e afins. Toda essa junção resultou em cinco cursos gratuitos:</p>
 
-  - [Inteligência artificial e Computacional](https://www.eucapacito.com.br/curso-ec/inteligencia-artificial-e-computacional)
-  - [Inteligência Artificial (IA) – Primeiros passos](https://www.eucapacito.com.br/curso-ec/inteligencia-artificial-ia-primeiros-passos)
-  - [Inteligência Artificial aplicada a comunicação](https://www.eucapacito.com.br/curso-ec/inteligencia-artificial-aplicada-a-comunicacao)
-  - [Introdução à Inteligência Artificial no Azure](https://www.eucapacito.com.br/curso-ec/introducao-a-inteligencia-artificial-no-azure)
-  - [Princípios de Inteligência Artificial e seus impactos na comunicação e em nossas vidas](https://www.eucapacito.com.br/curso-ec/principios-de-inteligencia-artificial-e-seus-impactos-na-comunicacao-e-em-nossas-vidas)
-  - [User Experience](https://www.eucapacito.com.br/curso-ec/user-experience)
-  - [Soluções Tecnológicas Emergentes](https://www.eucapacito.com.br/curso-ec/solucoes-tecnologicas-emergentes)
+ 
   - [Python](https://www.eucapacito.com.br/curso-ec/python)
   - [Mobile Marketing](https://www.eucapacito.com.br/curso-ec/mobile-marketing)
   - [Marketing em Plataformas de Social Media](https://eucapacito.com.br/curso-ec/marketing-em-plataformas-de-social-media)
